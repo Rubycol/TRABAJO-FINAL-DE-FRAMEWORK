@@ -1,0 +1,27 @@
+#contenedor{
+width:inherit;
+background-color:#5c6bc0;
+border:2px solid blue;
+margin-left:inherit;
+margin-top:inherit;
+margin-right:inherit;
+}
+
+ #contenedor2{
+   background-color:#64b5f6;
+   border:2px solid yellow;
+   height:inherit;
+   margin:inherit;
+   }
+
+   #contenedor3{
+    min-height:inherit;
+    background-color:#64b5f6;
+    border:2px solid yellow;
+    margin-top:inherit;
+     }
+#titulo{
+  color:white;
+  text-shadow:2px 3px 2px black;
+  text-transform
+}
