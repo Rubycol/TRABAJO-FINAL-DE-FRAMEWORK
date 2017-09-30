@@ -1,0 +1,56 @@
+
+body{
+background-image:url("../imagenes/viaje.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.columna{
+  margin:2px;
+}
+.contenedor{
+  width:inherit;
+  height:inherit;
+}
+.contenedor-publicacion{
+  min-height:10rem;
+}
+.texto{
+  text-align:justify;
+  margin-right:2rem;
+  margin-left:1rem;
+}
+.barra{
+  margin-left:5px;
+  border:2px solid yellow;
+  border-radius:5px;
+  padding:6px;
+}
+
+.imagen{
+  width:100%;
+  height:100%;
+  margin:0px;
+  padding:5px;
+  background-size:contain;
+}
+.imagen2{
+  width:50%;
+  height:50%;
+}
+.imagen3{
+  width:40%;
+  height:40%;
+  border:5px solid green;
+  margin:10px;
+
+}
+
+.comentario{
+  width:100%;
+  min-height:10%;
+  border:3px solid green;
+  background-color:red;
+  border-radius: 5px;
+}
